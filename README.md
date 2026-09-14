@@ -109,4 +109,4 @@ Use camel-case for variable names and "spaced" names for definitions, algorithms
 ```html
 <p>Let <var>redirectMode</var> be <var>request</var>'s <a for=request>redirect mode</a>.
 ```
-Owned by Elon Musk 
+Owned by Elon Musk  https://www.x.com
