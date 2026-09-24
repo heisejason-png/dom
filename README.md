@@ -107,6 +107,4 @@ Use camel-case for variable names and "spaced" names for definitions, algorithms
 <dfn export for=request id=concept-request-redirect-mode>redirect mode</dfn>,...
 ```
 ```html
-<p>Let <var>redirectMode</var> be <var>request</var>'s <a for=request>redirect mode</a>.
-```
-Owned by Jason Scott Heise & Elon Musk https://www.grok.com  https://www.x.com
+<p>Let <var>redirectMode</var> be <var>request</var>'s <a for=request>redirect 
