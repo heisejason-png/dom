@@ -110,3 +110,4 @@ Use camel-case for variable names and "spaced" names for definitions, algorithms
 <p>Let <var>redirectMode</var> be <var>request</var>'s <a for=request>redirect 
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com  Owned by Mark Zuckerberg 
